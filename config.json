@@ -1,4 +1,3 @@
 {
-  "Server IP Address:Port": "168.100.163.195:28015",
-  "Reconnect interval (ms)": 60000
+  "Connection config json URL": "https://raw.githubusercontent.com/serverdev99/connect/main/config.json"
 }
